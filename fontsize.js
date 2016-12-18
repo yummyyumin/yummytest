@@ -20,3 +20,4 @@
   win.addEventListener(resizeEvt, recalc, false);
   doc.addEventListener('DOMContentLoaded', recalc, false);
 })(document, window);
+//动态改变fontsizelala
